@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vornuttech.com/sitemap.xml
